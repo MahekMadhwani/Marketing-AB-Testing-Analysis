@@ -2,7 +2,7 @@
 
 Statistical and Bayesian analysis of a real 588,101-user randomized experiment testing whether showing ads increases conversion rate compared to a Public Service Announcement (PSA) control.
 
-**[Read the full business write-up →](business_writeup.md)** · **[Try the live conversion predictor →](https://YOUR-APP-NAME.streamlit.app)**
+**[Read the full business write-up →](business_writeup.md)** · **[Try the live conversion predictor →](https://marketing-ab-testing-analysis-e2pjvd28etox5d5vvahjsa.streamlit.app/)**
 
 ## TL;DR
 
